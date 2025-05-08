@@ -3,7 +3,7 @@
 [![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Project](https://img.shields.io/badge/Project-Machine%20Learning%20Project%202-orange)]()
 
 
-🚀 check out the [report](https://github.com/JenLungHsu/Hand-Crafted-Ensemble-Learning-Strategies/blob/main/Ensemble%20Learning%20Strategies.pdf)  for more detail.
+🚀 Check out the [report](https://github.com/JenLungHsu/Hand-Crafted-Ensemble-Learning-Strategies/blob/main/Ensemble%20Learning%20Strategies.pdf)  for more detail.
 
 ## Project Overview
 This project explores the application of **Hand-Crafted Ensemble Learning Strategies** to enhance predictive performance in classification tasks. All models are fully implemented from scratch without external machine learning libraries, showcasing unique and creative designs that go beyond traditional ensemble methods.
